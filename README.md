@@ -2,7 +2,7 @@
 This repository contains a few sample programs that I wrote when I began learning Assembly with NASM.
 
 # How to run the sources?
-You will need to have NASM assembler and the GNU Linker available on your system.
+You will need to have NASM assembler and the GNU Linker (LD) available on your system. GNU Linker is part of GNU binutils.
 
 To make a runnable/executable follow the steps below:
 1. Open a terminal in the folder of the sample you with to run (eg. '1-Hello_World')
